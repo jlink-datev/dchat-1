@@ -1,1 +1,1 @@
-# datev_remote_team_ws
+# Datev Remote Team Workshop
